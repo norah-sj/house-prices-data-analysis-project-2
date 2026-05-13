@@ -1,0 +1,14 @@
+House_ID
+Unique identifier for each house
+Size_m2
+House area in square meters
+Bedrooms
+Number of bedrooms
+City
+City where the house is located 
+Neighborhood
+Specific area inside the city
+Price
+Estimated house price (changes yearly based on market growth)
+Year
+Data year (2022–2024)
