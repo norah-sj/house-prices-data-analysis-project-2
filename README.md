@@ -1,5 +1,4 @@
-# house-prices-data-analysis-project-2
-# 🏠 House Prices Data Analysis Project
+# 🏠 House Prices Data Analysis Project 2
 
 ---
 ## 📚 Course Information
