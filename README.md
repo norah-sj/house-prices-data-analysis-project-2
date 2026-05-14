@@ -2,7 +2,11 @@
 # 🏠 House Prices Data Analysis Project
 
 ---
+## 📚 Course Information
+Course: (طرق البرمجة المتقدمة)  
+Instructor: (رزان فيصل الفقير)
 
+---
 ## 👩‍🎓 Team Members
 - Noura Saad  
 - Fatimah Abdullah  
